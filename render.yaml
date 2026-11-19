@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: kellys-boutique
+    env: static
+    buildCommand: ""
+    staticPublishPath: .
